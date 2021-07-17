@@ -9,9 +9,6 @@ it's a automation script to perform Enable hotspot_mode in windows 2007/8.1/10 <
 When use:- <br>
 <pre>
         Bying a router for connecting your all devices create a issue
-        just bye one wifi adapter 
+        just bye one wifi adapter price will be near about 200/-
         And you are absolutly ready to make fun like others who uses router
-
-
-
 </pre>      
