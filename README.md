@@ -8,7 +8,9 @@ You can click the Preview link to take a look at your changes.
 it's a automation script to perform Enable hotspot_mode in windows 2007/8.1/10 <br>
 When use:- <br>
 <pre>
-        Bying a router for connecting your all devices create a issue
-        just bye one wifi adapter price will be near about 200/-
-        And you are absolutly ready to make fun like others who uses router
+       If You have just lan connection want to connect all device in same network!!
+       here you are in exact source
+       Bying a router for connecting your all devices create a issue
+       just bye one wifi adapter price will be near about 200/-
+       And you are absolutly ready to make fun like others who uses router
 </pre>      
