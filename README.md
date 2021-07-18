@@ -16,6 +16,27 @@ When use:- <br>
 </pre>   
 # Execute
 
+Ist step:-(jst for first time)
+	<ul>
+	<li>Goto Source folder<br>
+	<li>run HotsPot__.bat with <strong>**<u>administration mode</u></strong><br>
+	<li>For first time choose "START Hotspot" by pressing "S"<br>
+	<li>write your wifi name and password and hit enter<br>
+		<strong>[**note:- password must be above or equals to eight.]</strong><br>
+	<li>it will redirect you a "Network Connections " section<br>
+	<li>Here you double click your current lan or wifi adapter<br>
+	<li>choose "properties" <br>
+	<li>now choose "Sharing" tab<br>
+	<li>"allow other networks" <br>
+	<li>"select a privet network"<br>
+	<li>choose option like "Local Area connection*12"<br>
+	<li>"ok" && "close"<br>
+	</ul>
 
+now whene ever you want to start Hotspot
+<ul>
+	<li>run HotsPot__.bat with administration mode<br>
+	<li>and choose "ENABLE Hotspot" by pressing "E"<br>
+	</ul>
 # Screenshot
 <img align="center" src="https://raw.githubusercontent.com/soms-bucket/Win_Hotspot/main/ico/Screen_shot.png" alt="screenshot.png" height="500" weight="600">
