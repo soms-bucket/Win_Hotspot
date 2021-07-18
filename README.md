@@ -15,27 +15,7 @@ When use:- <br>
        And you are absolutly ready to make fun like others who uses router
 </pre>   
 # Execute
-<p>
-Ist step:-(jst for first time)
-	
-	Goto Source folder
-	run HotsPot__.bat with <strong>**administration mode</strong>
-	For first time choose "START Hotspot" by pressing "S"
-	write your wifi name and password and hit enter
-		[**note:- password must be above or equals to eight.]
-	it will redirect you a "Network Connections " section
-	Here you double click your current lan or wifi adapter
-	choose "properties" 
-	now choose "Sharing" tab
-	"allow other networks" 
-	"select a privet network"
-	choose option like "Local Area connection*12"
-	"ok" && "close"
 
-now whene ever you want to start Hotspot
-	run HotsPot__.bat with administration mode
-	and choose "ENABLE Hotspot" by pressing "E"
-</p>
 
 # Screenshot
 <img align="center" src="https://raw.githubusercontent.com/soms-bucket/Win_Hotspot/main/ico/Screen_shot.png" alt="screenshot.png" height="500" weight="600">
