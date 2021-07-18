@@ -37,6 +37,7 @@ now whene ever you want to start Hotspot
 <ul>
 	<li>run HotsPot__.bat with administration mode<br>
 	<li>and choose "ENABLE Hotspot" by pressing "E"<br>
-	</ul>
-# Screenshot
+</ul>
+	
+## Screenshot
 <img align="center" src="https://raw.githubusercontent.com/soms-bucket/Win_Hotspot/main/ico/Screen_shot.png" alt="screenshot.png" height="500" weight="600">
