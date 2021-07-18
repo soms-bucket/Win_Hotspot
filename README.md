@@ -14,4 +14,4 @@ When use:- <br>
        just bye one wifi adapter price will be near about 200/-
        And you are absolutly ready to make fun like others who uses router
 </pre>      
-<img align="center" src="https://raw.githubusercontent.com/soms-bucket/Win_Hotspot/main/ico/Screen_shot.png" alt="ico">
+<img align="center" src="https://raw.githubusercontent.com/soms-bucket/Win_Hotspot/main/ico/Screen_shot.png" alt="screenshot.png" height="600" weight="700">
