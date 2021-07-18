@@ -39,14 +39,14 @@ goto main
 
 :active
 set id=my_wifi
-echo write your wifi name=
-set /p id= 
+
+set /p id=write your wifi name=
 echo.
 echo Your wifi name= %id%
 echo.
 set pwd=12345678
-echo write password=
-set /p pwd= 
+
+set /p pwd=write password=
 echo.
 echo Your Password= %pwd%
 echo.
