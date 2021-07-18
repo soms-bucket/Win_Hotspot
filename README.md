@@ -19,7 +19,7 @@ When use:- <br>
 Ist step:-(jst for first time)
 	
 	Goto Source folder
-	run HotsPot__.bat with **administration mode
+	run HotsPot__.bat with <strong>**administration mode</strong>
 	For first time choose "START Hotspot" by pressing "S"
 	write your wifi name and password and hit enter
 		[**note:- password must be above or equals to eight.]
