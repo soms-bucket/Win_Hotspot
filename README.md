@@ -16,7 +16,7 @@ When use:- <br>
 </pre>   
 # Execute
 
-Ist step:-(jst for first time)
+Ist step:-<strong>(jst for first time)</strong>
 	<ul>
 	<li>Goto Source folder<br>
 	<li>run HotsPot__.bat with <strong>**<u>administration mode</u></strong><br>
