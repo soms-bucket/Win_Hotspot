@@ -77,7 +77,10 @@ pause
 cls
 goto main
 :wifi
+echo [**only connect with saved network]
+echo.
 netsh wlan show profiles
+echo.
 netsh wlan show networks
 set /p wifi=write your wifi name=
 netsh wlan connect name=%wifi%
