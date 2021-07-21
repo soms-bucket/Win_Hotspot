@@ -40,7 +40,7 @@ goto main
 :active
 set id=my_wifi
 
-set /p id=write your Hotspot name=
+set /p id=write your HOTSPOT name=
 echo.
 echo Your wifi name= %id%
 echo.
@@ -77,8 +77,10 @@ pause
 cls
 goto main
 :wifi
+netsh wlan show profiles
+netsh wlan show networks
 set /p wifi=write your wifi name=
-netsh wlan connect name= %wifi%
+netsh wlan connect name=%wifi%
 echo.
 pause
 cls
@@ -98,8 +100,6 @@ exit
 pause
 cls
 goto main
-
-
 
 
 
