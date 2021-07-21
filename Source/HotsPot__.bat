@@ -22,7 +22,7 @@ echo ][*************************][*************************][
 echo.
 
 
-set /p env=Type your option [S,D,C,I,E,Q] then press ENTER: || set env="0"
+set /p env=Type your option [S,D,C,I,E,W,Q] then press ENTER: || set env="0"
 echo.
 if /I %env%==S goto active
 if /I %env%==E goto enable
@@ -40,7 +40,7 @@ goto main
 :active
 set id=my_wifi
 
-set /p id=write your wifi name=
+set /p id=write your Hotspot name=
 echo.
 echo Your wifi name= %id%
 echo.
@@ -77,7 +77,8 @@ pause
 cls
 goto main
 :wifi
-netsh wlan connect name="evil_com!"
+set /p wifi=write your wifi name=
+netsh wlan connect name= %wifi%
 echo.
 pause
 cls
