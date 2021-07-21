@@ -40,4 +40,4 @@ now whene ever you want to start Hotspot
 </ul>
 	
 ## Screenshot
-<img align="center" src="https://raw.githubusercontent.com/soms-bucket/Win_Hotspot/main/ico/Screen_shot.png" alt="screenshot.png" height="500" weight="600">
+<img align="center" src="https://raw.githubusercontent.com/soms-bucket/Win_Hotspot/main/ico/Screen_shot.png" alt="screenshot.png" height="600" weight="700">
